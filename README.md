@@ -4,3 +4,5 @@ Teaching Laura how to use Git and GitHub
 Blah blah blah
 
 this is text
+
+extra text to cause trouble
