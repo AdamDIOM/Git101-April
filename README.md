@@ -1,7 +1,11 @@
 # Git101-UniTeaching
-Teaching Laura how to use Git and GitHub
+Teaching Laura how to use Git and GitHub;
 
-Blah blah blah
+Blah blah blah;
+
+extra text to cause trouble;
+
+edit as requested;
 
 this is text
 
